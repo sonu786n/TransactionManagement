@@ -12,6 +12,8 @@ import com.transactionManagement.app.services.RegistrationService;
 @RequestMapping("/")
 public class RegistrationController {
 
+	//Updated from Taufeeque Ahmad
+	
 	@Autowired
 	RegistrationService service;
 	
